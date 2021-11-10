@@ -1,7 +1,5 @@
-# EDA_Analysis_of_NYC_and_SF_Airbnb_Data
-## Reem
+# EDA Analysis of NYC and SF Airbnb Data
 
-### Frist
 
 
 
