@@ -24,6 +24,9 @@ We are glad you contacted us last week. Upon your request, we will analyze data 
 
 We hope you like our services
 
+Thank you and all the best
+2R|DS Team
+
 ### Problem Statement  
 
 Market: is a small company expand its business in real estate at New York and San Francisco City. In this project, DS company will analyze the AirBnB data for each city to find the best locations. Hence, recommending the best location for the new branches so that market company, can achieve their goals to expands in to real estate. 
