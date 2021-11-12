@@ -28,9 +28,13 @@ The value for the company is to improve the quality of service provided, which l
 ### Question\Need
 
 1-What is the average houses price in each neighbor_group?
+
 2- What is the best number of reviews for each neighbor_group?
+
 3- What is the 5 (max and min )prices for each state?
+
 4- what is the average price for each room type?
+
 5-What is the room type and the most number of types rooms for each states and neighborhood_group?
 
 This a table of the data provided to us by the NYC and SF:
