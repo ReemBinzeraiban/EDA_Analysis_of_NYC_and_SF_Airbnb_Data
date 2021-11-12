@@ -1,5 +1,7 @@
 # EDA Analysis of NYC and SF Airbnb Data
+
 ![alt text](https://drive.google.com/uc?export=view&id=13GLFOGbvsvdm69P3XqZAGa_mQZ_zRYo_)
+
 ### Backstory
 
 Dear customer, you are welcome.  
@@ -22,7 +24,7 @@ EDA using python and SQL and Machine Learning.
 Market .is a small company expand its business in real estate at New York and San Francisco City. In this project, DS company will analyze the AirBnB data for each city to find the best locations. Hence, recommending the best location for the new branches so that market company, can achieve their goals to expands in to real estate. 
 The value for the company is to improve the quality of service provided, which leads to client satisfaction. 
 
-### Question\Need
+###Question\Need
 
 1-What is the average houses price in each neighbor_group?
 
@@ -33,6 +35,7 @@ The value for the company is to improve the quality of service provided, which l
 4- what is the average price for each room type?
 
 5-What is the room type and the most number of types rooms for each states and neighborhood_group?
+
 
 This a table of the data provided to us by the NYC and SF:
 
