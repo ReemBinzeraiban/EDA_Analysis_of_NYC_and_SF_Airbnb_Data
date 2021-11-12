@@ -1,6 +1,7 @@
 # EDA Analysis of NYC and SF Airbnb Data
 
-![alt text] (https://drive.google.com/file/d/13GLFOGbvsvdm69P3XqZAGa_mQZ_zRYo_/view?usp=sharing)
+![alt text](https://drive.google.com/uc?export=view&id=13GLFOGbvsvdm69P3XqZAGa_mQZ_zRYo_)
+
 
 
 ### Backstory
