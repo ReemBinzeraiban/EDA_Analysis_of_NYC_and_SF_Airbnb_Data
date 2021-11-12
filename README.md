@@ -18,16 +18,16 @@ EDA using python and SQL and Machine Learning.
 
 ### Backstory
 
-Dear customer, you are welcome.  
+Dear customer, you are welcome...  
 
 We are glad you contacted us last week. Upon your request, we will analyze data for New York and San Francisco to find the best real estate investment locations.
 
 We hope you like our services
 
-Thank you and all the best
+### Thank you and all the best
 
 
-2R|DS Team
+ 2R|DS Team
 
 ### Problem Statement  
 
